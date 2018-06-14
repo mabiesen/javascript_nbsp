@@ -8,6 +8,8 @@ The goal is to flexibly change the non-breaking nature of html text to prevent "
 3. using css - this make really ugly code, with weird spans everywhere.
 4. rendering client side - many benefits, draw back of using client side resources but it the code is light and jquery is usually cached.
 
-Example input can be found in the body on-load event in the example html.
+Example input can be found in the body on-load event in the example html, the the script can be used in a few capacities.
 
 Accepted inputs are arrays of classes, ids, and/or tags.  A numerical value is required to set the number of desired widow-friends (a call it a widdow gaggle)
+
+Some todos forthcoming.
