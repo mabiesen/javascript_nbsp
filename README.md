@@ -1,4 +1,7 @@
 # javascript_nbsp
+
+NOTE:  HAS NOT BEEN USED IN PRODUCTION.  We found an immediate work around.  This is retained for reference only.
+
 Add non-breaking space to end of string on specified elements, ids, or classes
 
 The goal is to flexibly change the non-breaking nature of html text to prevent "widowed" html, defined as a single word or a couple of words ending up on their own line.  Currently, this is accomplished through either:
